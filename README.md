@@ -23,7 +23,7 @@ To run the binary classification code, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/food-classification-cnn.git
+   git clone https://github.com/aryanrangapur/food-classification-cnn.git
    cd food-classification-cnn
 2. Install the required dependencies:
    ```bash
@@ -38,7 +38,7 @@ In the multiclass classification section, the CNN model is extended to classify 
 To run the multiclass classification code, follow these steps:
 1. Clone the repository:
     ```bash
-      git clone https://github.com/your-username/food-classification-cnn.git
+      git clone https://github.com/aryanrangapur/food-classification-cnn.git
       cd food-classification-cnn
 2. Install the required dependencies:
    ```bash
