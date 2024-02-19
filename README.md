@@ -23,14 +23,14 @@ To run the binary classification code, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aryanrangapur/food-classification-cnn.git
+   git clone https://github.com/aryanrangapur/food-classification-project.git
    cd food-classification-cnn
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
 3. Run the binary classification script:
    ```bash
-   python binary_classification_cnn.py
+   python binary_classification.py
 ## Multiclass Classification
 In the multiclass classification section, the CNN model is extended to classify images into one of the 10 different food classes. This demonstrates the capability of CNNs to handle complex multiclass classification scenarios.
 
@@ -38,14 +38,14 @@ In the multiclass classification section, the CNN model is extended to classify 
 To run the multiclass classification code, follow these steps:
 1. Clone the repository:
     ```bash
-      git clone https://github.com/aryanrangapur/food-classification-cnn.git
+      git clone https://github.com/aryanrangapur/food-classification-project.git
       cd food-classification-cnn
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
 3. Run the multiclass classification script:
     ```bash
-    python multiclass_classification_cnn.py
+    python multiclass_classification.py
 ## Results and Evaluation
 Detailed results, model performance metrics, and evaluation summaries are provided in the results directory. Explore and analyze the performance of the CNN models for both binary and multiclass classification tasks.
 
