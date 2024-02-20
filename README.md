@@ -38,5 +38,7 @@ To run the binary classification code, follow these steps:
 Detailed results, model performance metrics, and evaluation summaries are provided in the results directory. Explore and analyze the performance of the CNN models for both binary and multiclass classification tasks.
 
 
+![chicken_wings](https://media.githubusercontent.com/media/aryanrangapur/Food-Classification-Project/main/results/chicker_wings.png?token=BE5STDLDG22JL3UPRF6NCFLF2TTYE)  ![hamburger](https://media.githubusercontent.com/media/aryanrangapur/Food-Classification-Project/main/results/hamburger.png?token=BE5STDKHDALQY7SFRKCCFOTF2TTZM)
+
 ## Contributing
 Contributions are welcome! If you have ideas for improvements, new features, or bug fixes, please open an issue or submit a pull request.
