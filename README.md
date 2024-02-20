@@ -26,7 +26,7 @@ To run the binary classification code, follow these steps:
 
    ```bash
    git clone https://github.com/aryanrangapur/food-classification-project.git
-   cd food-classification-cnn
+   cd Food-Classification-Project
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
