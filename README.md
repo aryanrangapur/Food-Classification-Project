@@ -6,7 +6,11 @@ Welcome to the Food Classification project! This repository focuses on binary an
 
 ## Dataset
 
-The dataset used for this project contains a diverse collection of food images, categorized into 10 different classes. The dataset is split into training and testing sets, enabling the training and evaluation of CNN models. You can access the images from the "pizza_streak" and "10_food_classes_all_data" directories. 
+The dataset used for this project contains a diverse collection of food images, categorized into 10 different classes. The dataset is split into training and testing sets, enabling the training and evaluation of CNN models. You can access the images from the "pizza_streak" and "10_food_classes_all_data" directories. By using:
+    ```bash
+    cd pizza_streak
+ 
+
 
 ## CNN Architecture
 
